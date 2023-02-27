@@ -3,9 +3,12 @@ h3 {
 }
 
 img {
+display: flex;
+width: 40%;
+height: auto;
 
 }
 
-.photos {
+/* .photos {
    text-align: center;
-}
+} */
